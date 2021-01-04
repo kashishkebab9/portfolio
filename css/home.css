@@ -1,0 +1,28 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin:0;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    height: 7.5em;
+}
+  
+li {
+    float: left;
+    margin: 1.5em .5em 1.5em 10em;
+    font-size: 1.25rem;
+}
+  
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+

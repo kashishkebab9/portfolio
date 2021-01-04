@@ -1,0 +1,59 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin:0;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    height: 7.5em;
+}
+  
+li {
+    float: left;
+    margin: 1.5em .5em 1.5em 10em;
+    font-size: 1.25rem;
+}
+  
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.houmech1 {
+    background-color: #1CB5BC;
+    block-size: 70em;
+}
+
+.title {
+    margin: 0 0 0 0em;
+    font-size: 3.5rem;
+
+}
+
+.date {
+    font-size: 1.4rem;
+    margin: 0px;
+}
+
+
+
+
+.houmechtext {
+    color: white;
+    text-align: center;
+    padding: 10em;
+}
+
+.houmech1 img {
+    float: left;
+    padding: 50px;
+    background-color: #1CB5BC;
+}
+
