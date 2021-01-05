@@ -8,7 +8,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color:  white;
     height: 7.5em;
 }
   
@@ -20,15 +20,15 @@ li {
   
 li a {
     display: block;
-    color: white;
+    color: black;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
 
 .houmech1 {
-    background-color: #1CB5BC;
-    block-size: 70em;
+    background-color:#474747 ;
+    block-size: 65em;
 }
 
 .title {
@@ -42,18 +42,43 @@ li a {
     margin: 0px;
 }
 
-
-
-
 .houmechtext {
     color: white;
     text-align: center;
-    padding: 10em;
+    padding: 5em;
+    font-size: 1.75rem;
 }
 
 .houmech1 img {
     float: left;
     padding: 50px;
-    background-color: #1CB5BC;
+    background-color: #474747;
+}
+
+
+.project-container {
+    display: flex;
+    column-count: 3;
+    column-gap: 5em;
+}
+
+.work {
+    font-size: 2.2rem;
+}
+
+.projdesc {
+    font-size: 1.6rem;
+}
+
+
+.houmechdesc {
+    background-color: #141322;
+    block-size: 65em;
+    margin: -1em 0 0 0;
+    
+}
+
+.houmechdesc text {
+    color: white;
 }
 
